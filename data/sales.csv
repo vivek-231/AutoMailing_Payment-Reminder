@@ -1,0 +1,4 @@
+order_id,customer_id,item,order_amount,order_date,status
+O001,C001,Dell Laptop,500000,2026-08-10,Delivered
+O002,C002,HP Laptop,300000,2026-08-12,Delivered
+O003,C003,Lenovo Laptop,450000,2026-08-15,Delivered

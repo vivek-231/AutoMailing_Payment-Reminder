@@ -1,0 +1,4 @@
+invoice_id,customer_id,order_id,invoice_amount,amount_paid,due_date,payment_status,reminder_7,reminder_3,reminder_1,reminder_0,reminder_overdue,outstanding
+INV001,C001,O001,500000,100000,2026-08-30,Pending,0,0,0,0,0,400000
+INV002,C002,O002,300000,300000,2026-08-25,Paid,0,0,0,0,0,0
+INV003,C003,O003,450000,50000,2026-08-27,Pending,0,0,1,0,0,400000
